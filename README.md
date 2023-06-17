@@ -28,5 +28,4 @@ Please write the lanauges that you want to learn (Please write natural language 
 - Chinese
 - Japanese
 - Spanish
-- Chinese
-- Spanish
+- French
